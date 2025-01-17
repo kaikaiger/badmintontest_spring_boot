@@ -60,11 +60,7 @@
 - DELETE `/renters/{id}`: 刪除租借者
 
 ### 管理員管理
-- GET `/managers`: 取得所有管理員
 - GET `/managers/{id}`: 透過id取得特定管理員
-- POST `/managers`: 新增管理員
-- PUT `/managers/{id}`: 更新管理員資訊
-- DELETE `/managers/{id}`: 刪除管理員
   
 ## 系統需求
 - Java 17 或以上
